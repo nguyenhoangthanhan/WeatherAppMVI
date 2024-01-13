@@ -1,4 +1,4 @@
-package com.nguyenhoangthanhan.weatherapp.ui.theme
+package com.nguyenhoangthanhan.weatherapp.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

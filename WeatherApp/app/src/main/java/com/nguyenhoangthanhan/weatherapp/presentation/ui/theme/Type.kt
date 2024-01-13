@@ -1,4 +1,4 @@
-package com.nguyenhoangthanhan.weatherapp.ui.theme
+package com.nguyenhoangthanhan.weatherapp.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
